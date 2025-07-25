@@ -1,5 +1,4 @@
-The target is a derived ‘wealth index’ based on responses in various household surveys.
-It is on a scale from 0 to 1, with 1 denoting higher wealth. 
-This measure is based on multiple factors such as asset ownership, 
-and gives a single measure across the different surveys and countries that we can use to compare data points in a consistent way.
-Each row in the dataset corresponds to a cluster of survey responses, and so the Target is a measure of the average wealth for a given cluster of respondents.
+These are learning challenges from the Zindi platform.
+—from predicting crop yields and improving healthcare delivery, to optimising traffic flows and tackling climate change.
+These challenges offer participants both monetary rewards and the opportunity to gain verifiable skills.
+In a recent survey, 1 in 5 users reported getting a job in data science or AI because of their Zindi profile.
